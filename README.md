@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wb998)](https://solved.ac/wb998/)
+- 소프트웨어 마에스트로 13기 ( 2022.04. ~ 2022.11. )
+- DUCC 2022 2등
+- kakaoCorp ( 2022.12. ~ )
